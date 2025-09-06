@@ -1,7 +1,4 @@
 ---
-
-# about me 😀
-
 I'm wangxt (wxt2rr).
 
 ---
