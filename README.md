@@ -1,4 +1,3 @@
----
 I'm wangxt (wxt2rr).
 
 ---
@@ -79,5 +78,3 @@ I'm wangxt (wxt2rr).
 * 💡 **开发理念**：注重实用性，追求代码质量，持续学习新技术
 
 ---
-
-*参考资料: [GitHub @wxt2rr](https://github.com/wxt2rr) 完整项目列表*
