@@ -1,6 +1,12 @@
 I'm wangxt (wxt2rr).
 
 ---
+**[个人项目]**
+* **[图点点](https://www.tudiandian.com/inspiration)**：一站式智能创作平台。提供AI绘画、AIGC视频创作、AI图例、AI电商体验，拥有激发无限创作灵感的社区。
+* **[codex-switcher](https://github.com/wxt2rr/codex-switcher)**：一个面向 Codex CLI 与 Codex App 的轻量账号管理、多开工具
+* **[Anima](https://github.com/wxt2rr/Anima)**：一款优雅的桌面端人工智能助手
+* **[cmdify](https://github.com/wxt2rr/cmdify)**：由 AI 赋能的便捷 Shell 命令，通过自然语言生成/执行 Shell 命令的 CLI 工具
+* **[smart-tab-manager](https://github.com/wxt2rr/smart-tab-manager)**：一个浏览器标签页管理插件，解决您不断打开重复Tab的习惯！已上架Chrome插件商店[->前往安装](https://chromewebstore.google.com/detail/smart-tab-manager/gipmefepjocejcjkbkaakjbckonbmadm)
 
 **[Java后端开发]**
 
