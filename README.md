@@ -7,6 +7,14 @@ I'm wangxt (wxt2rr).
 * **[Anima](https://github.com/wxt2rr/Anima)**：一款优雅的桌面端人工智能助手
 * **[cmdify](https://github.com/wxt2rr/cmdify)**：由 AI 赋能的便捷 Shell 命令，通过自然语言生成/执行 Shell 命令的 CLI 工具
 * **[smart-tab-manager](https://github.com/wxt2rr/smart-tab-manager)**：一个浏览器标签页管理插件，解决您不断打开重复Tab的习惯！已上架Chrome插件商店[->前往安装](https://chromewebstore.google.com/detail/smart-tab-manager/gipmefepjocejcjkbkaakjbckonbmadm)
+* **[wxt-one-step](https://github.com/wxt2rr/wxt-one-step)**：一步到位的快捷工具集合
+* **[poster-editer](https://github.com/wxt2rr/poster-editer)**：免费轻量化海报设计工具，支持在线编辑和导出
+* **[smart-tab-manager](https://github.com/wxt2rr/smart-tab-manager)**：浏览器标签页管理插件，解决重复Tab打开的问题，提升浏览效率
+* **[ArcShot](https://github.com/wxt2rr/ArcShot)**：截图工具，提供便捷的屏幕捕获功能
+* **[chatgpt2api](https://github.com/wxt2rr/chatgpt2api)**：将ChatGPT网页转换成API，方便集成到其他应用中
+* **[sync-gpt-context](https://github.com/wxt2rr/sync-gpt-context)**：GPT上下文同步工具，优化对话体验
+* **[wxt-start-site](https://github.com/wxt2rr/wxt-start-site)**：个人导航页，整合常用网站和工具
+* **[wxt-image-viewer](https://github.com/wxt2rr/wxt-image-viewer)**：图片查看器，支持多种格式和批量浏览
 
 **[Java后端开发]**
 
@@ -19,18 +27,6 @@ I'm wangxt (wxt2rr).
 * **[wxt-mybatis](https://github.com/wxt2rr/wxt-mybatis)**：MyBatis增强工具，简化数据库操作和配置管理
 * **[wxt-redis-helper](https://github.com/wxt2rr/wxt-redis-helper)**：Redis操作助手，封装常用缓存操作模式
 * **[wxt-spring](https://github.com/wxt2rr/wxt-spring)**：Spring框架扩展工具集，提升开发效率
-
-**[前端与工具开发]**
-
-关注用户体验和开发效率，开发了多个实用的前端应用和开发工具。
-
-* **[poster-editer](https://github.com/wxt2rr/poster-editer)**：免费轻量化海报设计工具，支持在线编辑和导出
-* **[smart-tab-manager](https://github.com/wxt2rr/smart-tab-manager)**：浏览器标签页管理插件，解决重复Tab打开的问题，提升浏览效率
-* **[ArcShot](https://github.com/wxt2rr/ArcShot)**：截图工具，提供便捷的屏幕捕获功能
-* **[chatgpt2api](https://github.com/wxt2rr/chatgpt2api)**：将ChatGPT网页转换成API，方便集成到其他应用中
-* **[sync-gpt-context](https://github.com/wxt2rr/sync-gpt-context)**：GPT上下文同步工具，优化对话体验
-* **[wxt-start-site](https://github.com/wxt2rr/wxt-start-site)**：个人导航页，整合常用网站和工具
-* **[wxt-image-viewer](https://github.com/wxt2rr/wxt-image-viewer)**：图片查看器，支持多种格式和批量浏览
 
 **[AI与智能化工具]**
 
@@ -69,7 +65,6 @@ I'm wangxt (wxt2rr).
 * **[wxt-practise](https://github.com/wxt2rr/wxt-practise)**：各种实践代码集合，包含多种技术栈的实验和学习代码
 * **[my-draw](https://github.com/wxt2rr/my-draw)**：绘图工具，支持基础的图形绘制功能
 * **[taozi-web](https://github.com/wxt2rr/taozi-web)**：桃子Web项目，展示前端开发能力
-* **[wxt-one-step](https://github.com/wxt2rr/wxt-one-step)**：一步到位的快捷工具集合
 * **[logback](https://github.com/wxt2rr/logback)**：日志框架配置和使用示例
 * **[minio](https://github.com/wxt2rr/minio)**：MinIO对象存储服务集成实践
 * **[imageproxy](https://github.com/wxt2rr/imageproxy)**：图片代理服务，提供图片处理和缓存功能
