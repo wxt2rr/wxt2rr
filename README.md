@@ -7,14 +7,13 @@ I'm wangxt (wxt2rr).
 * **[Anima](https://github.com/wxt2rr/Anima)**：一款优雅的桌面端人工智能助手
 * **[cmdify](https://github.com/wxt2rr/cmdify)**：由 AI 赋能的便捷 Shell 命令，通过自然语言生成/执行 Shell 命令的 CLI 工具
 * **[smart-tab-manager](https://github.com/wxt2rr/smart-tab-manager)**：一个浏览器标签页管理插件，解决您不断打开重复Tab的习惯！已上架Chrome插件商店[->前往安装](https://chromewebstore.google.com/detail/smart-tab-manager/gipmefepjocejcjkbkaakjbckonbmadm)
-* **[wxt-one-step](https://github.com/wxt2rr/wxt-one-step)**：一步到位的快捷工具集合
-* **[poster-editer](https://github.com/wxt2rr/poster-editer)**：免费轻量化海报设计工具，支持在线编辑和导出
-* **[smart-tab-manager](https://github.com/wxt2rr/smart-tab-manager)**：浏览器标签页管理插件，解决重复Tab打开的问题，提升浏览效率
 * **[ArcShot](https://github.com/wxt2rr/ArcShot)**：截图工具，提供便捷的屏幕捕获功能
-* **[chatgpt2api](https://github.com/wxt2rr/chatgpt2api)**：将ChatGPT网页转换成API，方便集成到其他应用中
-* **[sync-gpt-context](https://github.com/wxt2rr/sync-gpt-context)**：GPT上下文同步工具，优化对话体验
+* **[wxt-one-step](https://github.com/wxt2rr/wxt-one-step)**：一步到位的快捷工具集合
 * **[wxt-start-site](https://github.com/wxt2rr/wxt-start-site)**：个人导航页，整合常用网站和工具
 * **[wxt-image-viewer](https://github.com/wxt2rr/wxt-image-viewer)**：图片查看器，支持多种格式和批量浏览
+* **[chatgpt2api](https://github.com/wxt2rr/chatgpt2api)**：将ChatGPT网页转换成API，方便集成到其他应用中
+* **[sync-gpt-context](https://github.com/wxt2rr/sync-gpt-context)**：GPT上下文同步工具，优化对话体验
+* **[poster-editer](https://github.com/wxt2rr/poster-editer)**：免费轻量化海报设计工具，支持在线编辑和导出
 
 **[Java后端开发]**
 
